@@ -53,8 +53,7 @@ const Temp = () => {
             type="button"
             onClick={getWeatherInfo}
           >
-            {" "}
-            search{" "}
+            search
           </button>
         </div>
       </div>
